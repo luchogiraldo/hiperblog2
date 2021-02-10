@@ -1,6 +1,9 @@
 # hyperblog1
 Diseño inicial de blog para el curso de Git y GitHub
 
+https://github.com/guajardo/Comandos-git#basic-snapshotting--snapshooting-basico
+
+
 Git Commands and Terminal / Comandos de GIT y Terminal
 A list of commonly used Git and Terminal commands
 
